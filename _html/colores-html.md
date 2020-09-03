@@ -377,7 +377,11 @@ A modo de apoyo aquí tenemos una guía de colores generales, sus valores hexade
     <tr>
       <td class="c101" colspan="1" rowspan="1">
         <p>
-          Darkolivegreen 556B2F
+          Darkolivegreen 
+        </p>
+        
+        <p>
+          556B2F
         </p>
       </td>
 
