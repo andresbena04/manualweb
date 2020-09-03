@@ -377,7 +377,11 @@ A modo de apoyo aquí tenemos una guía de colores generales, sus valores hexade
     <tr>
       <td class="c101" colspan="1" rowspan="1">
         <p>
-          Darkolivegreen 556B2F
+          Darkolivegreen 
+        </p>
+        
+        <p>
+          556B2F
         </p>
       </td>
 
@@ -457,7 +461,11 @@ A modo de apoyo aquí tenemos una guía de colores generales, sus valores hexade
     <tr>
       <td class="c104" colspan="1" rowspan="1">
         <p>
-          Darkturquoise 00CED1
+          Darkturquoise
+        </p>
+        
+        <p>
+          D00CED1
         </p>
       </td>
 
@@ -473,7 +481,7 @@ A modo de apoyo aquí tenemos una guía de colores generales, sus valores hexade
 
       <td class="c132" colspan="1" rowspan="1">
         <p>
-          deeppink
+          Deeppink
         </p>
 
         <p>
@@ -705,7 +713,11 @@ A modo de apoyo aquí tenemos una guía de colores generales, sus valores hexade
     <tr>
       <td class="c149" colspan="1" rowspan="1">
         <p>
-          Lavenderblush FFF0F5
+          Lavenderblush 
+        </p>
+        
+        <p>
+          FFF0F5
         </p>
       </td>
 
@@ -953,7 +965,11 @@ A modo de apoyo aquí tenemos una guía de colores generales, sus valores hexade
     <tr>
       <td class="c49" colspan="1" rowspan="1">
         <p>
-          Mediumpurple 9370D8
+          Mediumpurple
+        </p>
+        
+        <p>
+          9370D8
         </p>
       </td>
 
@@ -979,7 +995,11 @@ A modo de apoyo aquí tenemos una guía de colores generales, sus valores hexade
 
       <td class="c136" colspan="1" rowspan="1">
         <p>
-          Mediumspringgreen 00FA9A
+          Mediumspringgreen
+        </p>
+        
+        <p>
+          00FA9A
         </p>
       </td>
     </tr>
